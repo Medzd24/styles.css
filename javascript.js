@@ -20,7 +20,7 @@ const popupElement = document.getElementById("popup");
                 closeButton.style.display = "block"; 
             }
         }, 1000);
-    }, 8000); // 'F*8'1 5 +H'FJ B(D 916 'D%9D'F
+    }, 9000); // 'F*8'1 5 +H'FJ B(D 916 'D%9D'F
     
    
     closeButton.addEventListener("click", function () {
